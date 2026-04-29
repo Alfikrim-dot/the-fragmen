@@ -161,4 +161,3 @@ mungkin hanyalah konstruksi yang belum pernah kau pertanyakan.`,
     pdf: "/dokumen/kitab_logika_gelap_vol1.pdf",
   },
 ];
-];
