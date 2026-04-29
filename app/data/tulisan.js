@@ -2,6 +2,7 @@ export const tulisan = [
   {
     id: 1,
     title: "Arkais: Jiwa yang Terbelah",
+    status: "ongoing",
     excerpt: "Sebuah perjalanan tentang diri yang retak dan kehilangan arah...",
     content: `Ada sesuatu dalam diriku yang tidak pernah benar-benar lahir. 
       Ia tidak memiliki awal yang jelas, juga tidak pernah meminta untuk dipahami. 
@@ -45,6 +46,7 @@ export const tulisan = [
   {
     id: 2,
     title: "Ilusi Kendali",
+    status: "ready",
     excerpt:
       "Memahami Batas, Melepaskan Beban, dan Menemukan Kendali yang Sebenarnya",
     content: `Kita tidak pernah memilih di mana kita dilahirkan.
@@ -71,7 +73,7 @@ export const tulisan = [
 
       Padahal, yang kita genggam hanyalah sebagian kecil,
       dari sesuatu yang jauh lebih luas dari diri kita.`,
-    cover: "/images/Ilusi_kendali.png",
+    cover: "/images/Ilusi_Kendali.png",
     pdf: "/dokumen/Ilusi_Kendali_.pdf",
   },
 ];
