@@ -1,6 +1,10 @@
+"use client";
+
 import Navbar from "./components/Navbar";
 
 export default function Home() {
+  const allowed = true;
+
   return (
     <main>
       <Navbar />
@@ -21,6 +25,12 @@ export default function Home() {
 
           <a
             href="/library"
+            onClick={(e) => {
+              if (!allowed) {
+                e.preventDefault();
+                alert("Masuk ke pustaka terlebih dahulu");
+              }
+            }}
             className="mt-10 inline-block px-6 py-3 border border-neutral-700 rounded-full text-sm hover:bg-white hover:text-black"
           >
             Masuk ke Pustaka
