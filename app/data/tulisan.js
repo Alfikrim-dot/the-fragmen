@@ -73,7 +73,7 @@ export const tulisan = [
 
       Padahal, yang kita genggam hanyalah sebagian kecil,
       dari sesuatu yang jauh lebih luas dari diri kita.`,
-    cover: "/images/Ilusi_Kendali.png",
+    cover: "/images/Ilusi_kendali.png",
     pdf: "/dokumen/Ilusi_Kendali_.pdf",
   },
 ];
