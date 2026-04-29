@@ -76,4 +76,89 @@ export const tulisan = [
     cover: "/images/Ilusi_kendali.png",
     pdf: "/dokumen/Ilusi_Kendali_.pdf",
   },
+   {
+    id: 3,
+    title: "Kitab Logika Gelap — Vol. I: Noetika Obscura",
+    status: "ongoing",
+    excerpt:
+      "Sebuah eksplorasi tentang pikiran, kesadaran, dan ilusi realitas yang tidak pernah benar-benar dipahami.",
+
+    content: `PROLOG — MANUSKRIP YANG TERTINGGAL
+
+Tidak semua pemikiran diciptakan untuk dipahami.
+
+Sebagian di antaranya muncul dari celah—dari ruang kosong di antara kesadaran dan realitas yang tidak pernah sepenuhnya selaras.
+
+Tulisan ini bukan untuk menjelaskan.
+Ia tidak menawarkan jawaban, juga tidak berusaha menenangkan.
+
+Ia hanya membuka sesuatu yang selama ini tertutup.
+
+Dan mungkin,
+seharusnya tetap tertutup.
+
+---
+
+DOKTRIN I — PIKIRAN YANG TIDAK PERNAH MILIKMU
+
+Apa yang kau sebut sebagai “pikiranmu”,
+mungkin bukan milikmu.
+
+Ia terbentuk dari hal-hal yang tidak kau pilih:
+lingkungan,
+pengalaman,
+luka,
+dan kebetulan yang tidak pernah kau sadari.
+
+Kau tidak menciptakan cara berpikirmu.
+Kau hanya mewarisinya.
+
+Dan selama ini,
+kau hidup di dalam sesuatu yang tidak pernah benar-benar kau pahami.
+
+---
+
+DOKTRIN II — KESADARAN SEBAGAI ILUSI TERSTRUKTUR
+
+Kesadaran sering dianggap sebagai pusat kendali.
+
+Padahal,
+ia lebih menyerupai hasil akhir dari proses yang tidak terlihat.
+
+Apa yang kau sadari hanyalah sebagian kecil,
+dari sesuatu yang jauh lebih kompleks.
+
+Dan yang tidak kau sadari,
+justru memiliki pengaruh yang lebih besar.
+
+---
+
+DOKTRIN III — REALITAS YANG DITAFSIRKAN
+
+Realitas tidak pernah benar-benar objektif.
+
+Ia selalu ditafsirkan.
+
+Dipengaruhi oleh:
+apa yang kau percayai,
+apa yang kau takutkan,
+dan apa yang ingin kau lihat.
+
+Kau tidak melihat dunia sebagaimana adanya.
+
+Kau melihat dunia sebagaimana dirimu terbentuk.
+
+---
+
+Tulisan ini tidak akan membawamu pada kesimpulan.
+
+Ia hanya akan membuatmu menyadari satu hal:
+
+Bahwa apa yang selama ini kau anggap pasti,
+mungkin hanyalah konstruksi yang belum pernah kau pertanyakan.`,
+
+    cover: "/images/Kitab_Logika_Gelap_vol1",
+    pdf: "/dokumen/kitab_logika_gelap_vol1.pdf",
+  },
+];
 ];
