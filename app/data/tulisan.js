@@ -157,7 +157,7 @@ Ia hanya akan membuatmu menyadari satu hal:
 Bahwa apa yang selama ini kau anggap pasti,
 mungkin hanyalah konstruksi yang belum pernah kau pertanyakan.`,
 
-    cover: "/images/Kitab_Logika_Gelap_vol1",
+    cover: "/images/KLG_vol1.png",
     pdf: "/dokumen/kitab_logika_gelap_vol1.pdf",
   },
 ];
