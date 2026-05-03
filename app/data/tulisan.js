@@ -2,7 +2,7 @@ export const tulisan = [
   {
     id: 1,
     title: "Arkais: Jiwa yang Terbelah",
-    status: "ongoing",
+    status: "ready",
     excerpt: "Sebuah perjalanan tentang diri yang retak dan kehilangan arah...",
     content: `Ada sesuatu dalam diriku yang tidak pernah benar-benar lahir. 
       Ia tidak memiliki awal yang jelas, juga tidak pernah meminta untuk dipahami. 
@@ -41,7 +41,7 @@ export const tulisan = [
       Karena pada akhirnya, yang membuat kita tetap berjalan bukanlah keutuhan— 
       melainkan kemampuan untuk hidup dengan segala yang telah terbelah.`,
     cover: "/images/Arkais_Jiwa.png",
-    pdf: "/dokumen/Arkais_Jiwa.pdf",
+    pdf: "/dokumen/ArkaisJiwa_.pdf",
   },
   {
     id: 2,
