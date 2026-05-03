@@ -160,4 +160,174 @@ mungkin hanyalah konstruksi yang belum pernah kau pertanyakan.`,
     cover: "/images/KLG_vol1.png",
     pdf: "/dokumen/kitab_logika_gelap_vol1.pdf",
   },
+  {
+  id: 4,
+  title: "Mengunyah Sunyi, Meneguk Makna",
+  status: "ongoing",
+  excerpt:
+    "Tentang kesunyian yang perlahan mengajarkan manusia memahami dirinya sendiri.",
+
+  content: `PROLOG — KETIKA SUNYI MULAI BERBICARA
+
+  Ada masa di mana aku mengira sunyi adalah hukuman.
+  
+  Ia datang pada malam-malam yang terlalu panjang,
+  menetap di sela percakapan yang tidak selesai,
+  dan duduk diam di sudut ruang yang bahkan cahaya pun enggan singgahi.
+  
+  Aku pernah berusaha melawannya.
+  
+  Kucari keramaian,
+  kusinggahi tempat-tempat yang penuh suara,
+  kubuat diriku sibuk agar tidak sempat mendengar apa pun selain kebisingan.
+  
+  Namun semakin aku berlari,
+  semakin aku sadar bahwa sunyi tidak pernah benar-benar tertinggal.
+  
+  Ia mengikuti.
+  
+  Bukan seperti ancaman,
+  melainkan seperti sesuatu yang sabar menunggu untuk dipahami.
+  
+  Dan mungkin,
+  selama ini aku keliru.
+  
+  Mungkin sunyi bukan ketiadaan.
+  
+  Mungkin ia adalah ruang.
+  
+  Ruang di mana segala hal yang selama ini kututup rapat,
+  akhirnya memiliki kesempatan untuk berbicara.
+  
+  ---
+  
+  BAB I — MENGUNYAH KESEPIAN
+  
+  Kesepian sering disalahpahami.
+  
+  Banyak orang menganggapnya sebagai kekosongan,
+  sebuah keadaan yang harus segera diisi.
+  
+  Padahal,
+  tidak semua ruang kosong menuntut untuk dipenuhi.
+  
+  Ada ruang yang memang diciptakan agar kita berhenti sejenak,
+  agar kita mendengar gema diri sendiri.
+  
+  Aku pernah takut pada sepi.
+  
+  Takut pada percakapan-percakapan yang muncul di dalam kepala saat dunia mendadak hening.
+  
+  Takut pada pertanyaan-pertanyaan yang tidak bisa dijawab oleh siapa pun selain diriku sendiri.
+  
+  Tetapi semakin lama aku duduk bersamanya,
+  aku mulai mengerti:
+  
+  sunyi tidak pernah bermaksud melukai.
+  
+  Ia hanya memaksa kita menelan sesuatu yang selama ini terlalu keras untuk diakui.
+  
+  Dan seperti makanan yang alot,
+  ia harus dikunyah perlahan.
+  
+  Sakit.
+  Melelahkan.
+  Kadang membuat ingin menyerah.
+  
+  Namun justru dari proses itulah,
+  makna mulai terasa.
+  
+  ---
+  
+  BAB II — MENEGUK YANG PAHIT
+  
+  Tidak semua pemahaman datang dengan kelembutan.
+  
+  Sebagian hadir seperti pahit kopi yang terlalu pekat.
+  
+  Ia menyesakkan pada tegukan pertama,
+  namun perlahan menghangatkan.
+  
+  Begitu pula hidup.
+  
+  Ada kenyataan-kenyataan yang sulit diterima:
+  bahwa tidak semua kehilangan akan tergantikan,
+  bahwa tidak semua luka akan sembuh sempurna,
+  dan bahwa tidak semua pertanyaan memang ditakdirkan untuk memiliki jawaban.
+  
+  Dulu aku menolak semua itu.
+  
+  Aku ingin segala sesuatu masuk akal.
+  
+  Aku ingin hidup memberi penjelasan.
+  
+  Namun waktu mengajariku sesuatu yang sederhana:
+  
+  kadang makna tidak hadir sebagai jawaban.
+  
+  Ia hadir sebagai penerimaan.
+  
+  ---
+  
+  BAB III — KETIKA DIAM MENJADI GURU
+  
+  Diam memiliki caranya sendiri dalam mengajar.
+  
+  Ia tidak berteriak.
+  
+  Ia tidak memaksa.
+  
+  Ia hanya menunggu,
+  hingga kita cukup lelah untuk berhenti melawan.
+  
+  Dan saat itu tiba,
+  ia mulai menunjukkan hal-hal yang selama ini luput kita lihat.
+  
+  Tentang luka yang belum selesai.
+  
+  Tentang harapan yang diam-diam kita kubur.
+  
+  Tentang diri kita yang selama ini terlalu sibuk menjadi sesuatu,
+  hingga lupa sekadar menjadi.
+  
+  Di titik itulah aku memahami:
+  
+  sunyi bukan musuh.
+  
+  Ia adalah cermin.
+  
+  Dan tidak semua orang cukup berani menatap pantulannya.
+  
+  ---
+  
+  EPILOG — MENEGUK MAKNA
+  
+  Kini aku tidak lagi memusuhi kesunyian.
+  
+  Aku duduk bersamanya,
+  seperti duduk bersama seorang kawan lama yang akhirnya kupahami.
+  
+  Ia memang tidak selalu nyaman.
+  
+  Kadang ia tetap menghadirkan getir.
+  
+  Namun dari getir itu,
+  aku belajar sesuatu yang tak pernah diajarkan keramaian:
+  
+  bahwa makna tidak ditemukan dalam pelarian.
+  
+  Ia lahir dari keberanian untuk tinggal,
+  menatap,
+  dan menerima.
+  
+  Sunyi tidak pernah datang untuk mengosongkan.
+  
+  Ia datang untuk memberi ruang.
+  
+  Dan di ruang itulah,
+  aku akhirnya belajar meneguk makna.`,
+    
+    cover: "/images/MsMn.png",
+    pdf: "/dokumen/Mengunyah_Sunyi_Meneguk_Makna.pdf",
+  },
 ];
